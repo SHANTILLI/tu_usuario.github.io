@@ -14,16 +14,7 @@
       <p>Este sitio está protegido con clave.</p>
     </header>
 
-    <main>
-      <section>
-        <h2>Contenido Privado</h2>
-        <p>Solo quienes tienen la clave pueden ver esto.</p>
-      </section>
-    </main>
 
-    <footer>
-      <p>© 2025 - Sitio Seguro</p>
-    </footer>
   </div>
 </body>
 </html>
